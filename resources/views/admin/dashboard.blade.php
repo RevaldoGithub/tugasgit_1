@@ -154,7 +154,7 @@
                     <div class="card-body">
                         <div class="d-flex">
                             <div class="mt-2">
-                                <h6 class="">Sponsor / Client</h6>
+                                <h6 class="">Sponsor</h6>
                                 <h2 class="mb-0 number-font">{{ $sps }}</h2>
                             </div>
                             <div class="ms-auto">
